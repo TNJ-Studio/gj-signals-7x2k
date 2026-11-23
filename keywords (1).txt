@@ -1,0 +1,12 @@
+# One keyword or phrase per line. Lines starting with # are ignored.
+# Paste your 250-300 keywords below, replacing these examples.
+# A line starting with a minus sign BLOCKS stories containing that word.
+rough diamond tender
+diamond bourse
+gold refinery
+hallmarking
+lab-grown diamond
+gemstone auction
+jewellery exports
+-wedding
+-gold rate today
